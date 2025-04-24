@@ -29,7 +29,7 @@
 - Proceed and select which drive you want to install Windows on.
 
 Profit, you will have unbothered Windows experience for long time, you will receive cumulative & security updates for long time!
-If you want to get Microsoft Store, open powershell or press win + r and then type **wsreset -i**, it will reinstall Microsoft Store.
-To activate Windows, open powershell and type **irm https://get.activated.win | iex**, select HWID, it will activate Windows.
+> If you want to get Microsoft Store, open powershell or press win + r and then type **wsreset -i**, it will reinstall Microsoft Store.
+> To activate Windows, open powershell and type **irm https://get.activated.win | iex**, select HWID, it will activate Windows.
 
-Thanks for following up this guide!
+## Thanks for following up this guide!
