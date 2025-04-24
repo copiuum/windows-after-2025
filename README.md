@@ -4,7 +4,7 @@
 **Step 1**
 
 - Go to https://massgrave.dev/genuine-installation-media
-- Find "Windows 10 / 11 Enterprise LTSC"
+- Find "Windows 10 / 11 Iot Enterprise LTSC"
 - You can go with Windows 10 21H2 Iot Enterprise LTSC or Windows 11 24H2 Iot Enterprise LTSC, desktop experience is equally the same as on Home or Pro editions of Windows, only change is licensing and update channels!
 - Download
 
