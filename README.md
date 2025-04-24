@@ -28,8 +28,10 @@
 - _(if you are not sure which drive to install on, press **Shift + F10** and write **diskpart**, then **list disk** then **sel disk number** then **detail disk**, you wll see information about your selected drive)_
 - Proceed and select which drive you want to install Windows on.
 
-Profit, you will have unbothered Windows experience for long time, you will receive cumulative & security updates for long time!
+**Additional things to mention**
+Now, you will have unbothered Windows experience for long time, you will receive cumulative & security updates for long time!
 > If you want to get Microsoft Store, open powershell or press win + r and then type **wsreset -i**, it will reinstall Microsoft Store.
-> To activate Windows, open powershell and type **irm https://get.activated.win | iex**, select HWID, it will activate Windows.
+> To activate Windows, open powershell and type `irm https://get.activated.win | iex`, select HWID, it will activate Windows.
+> If you don't want drivers installed directly from Windows Update, open powershell and type `irm christitus.com/win | iex` navigate to "Updates" and select "Security Settings", you can still install Windows Updates manually by using [Windows Update Catalog](https://www.catalog.update.microsoft.com/Home.aspx) and following up Windows Update History!
 
 ## Thanks for following up this guide!
