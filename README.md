@@ -1,5 +1,5 @@
 
-# Guide on how to stay on windows 10/11 after windows 10 goes End Of Life in 2025!**
+# Guide on how to stay on windows 10/11 after windows 10 goes End Of Life in 2025!
 
 **Step 1**
 
@@ -34,4 +34,4 @@ Now, you will have unbothered Windows experience for long time, you will receive
 > To activate Windows, open powershell and type `irm https://get.activated.win | iex`, select HWID, it will activate Windows.
 > If you don't want drivers installed directly from Windows Update, open powershell and type `irm christitus.com/win | iex` navigate to "Updates" and select "Security Settings", you can still install Windows Updates manually by using [Windows Update Catalog](https://www.catalog.update.microsoft.com/Home.aspx) and following up Windows Update History!
 
-## Thanks for following up this guide!
+## Thanks for following up this guide! Help others by contributing to FOSS and repair! https://endof10.org/
